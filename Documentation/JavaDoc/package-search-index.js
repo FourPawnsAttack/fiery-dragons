@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"dragonix.fierydragons1","l":"dragonix.fierydragons1"},{"m":"dragonix.fierydragons1","l":"dragonix.fierydragons1.cards"},{"m":"dragonix.fierydragons1","l":"dragonix.fierydragons1.handlers"},{"m":"dragonix.fierydragons1","l":"dragonix.fierydragons1.handlers.adapters"}];updateSearchResults();

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="anchorPane" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="920.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="dragonix.fierydragons1.TutorialController" >
+    <children>
+        <ImageView fx:id="imageView" fitWidth="1000" fitHeight="920" layoutX="20" layoutY="20"/>
+        <Button fx:id="nextButton" layoutX="82" layoutY="182" text="Next"  prefHeight="50.0" prefWidth="100.0" />
+        <Button fx:id="RandomButton112" layoutX="84" layoutY="113" mnemonicParsing="false" onAction="#changeToMainMenu" prefHeight="50.0" prefWidth="100.0" text="Main Menu" />
+    </children>
+</AnchorPane>
